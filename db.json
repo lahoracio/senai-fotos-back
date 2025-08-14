@@ -1,0 +1,42 @@
+{
+    "fotos": [
+      {
+        "imagem": "https://i.ibb.co/gZbnX6xq/biblioteca.jpg",
+        "legenda": "Biblioteca",
+        "data": "31/07/2025"
+      },
+      {
+        "imagem": "https://i.ibb.co/SDjjRnTp/mecanica.jpg",
+        "legenda": "Mecanica",
+        "data": "31/07/2025"
+      },
+      {
+        "imagem": "https://i.ibb.co/Jjkr8G9S/portaria.jpg",
+        "legenda": "Portaria",
+        "data": "31/07/2025"
+      },
+      {
+        "imagem": "https://i.ibb.co/dNkyCMR/quadra.jpg",
+        "legenda": "Quadra",
+        "data": "31/07/2025"
+      },
+      {
+        "imagem": "https://i.ibb.co/JFd50QWz/refeitorio.jpg",
+        "legenda": "Refeitório",
+        "data": "31/07/2025"
+      },
+      {
+        "imagem": "https://i.ibb.co/7tzK6MdN/saida.jpg",
+        "legenda": "Saida",
+        "data": "31/07/2025"
+      },
+      {
+        "imagem": "https://i.ibb.co/DDmzBDfg/solzinho.jpg",
+        "legenda": "Solzinho",
+        "data": "31/07/2025"
+      }
+
+
+      
+    ]
+  }
